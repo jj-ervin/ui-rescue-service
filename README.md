@@ -4,7 +4,7 @@ A fixed-scope pilot service for evidence-first review and bounded visual cleanup
 
 Status: **service documentation v0.1; pilot offer, not market validated**.
 
-This service is separate from the [AI UI Rescue Kit](../ui-rescue-pack/readme.md). The kit is a self-serve prompt product. This directory is an operator-facing service system for client intake, consent, audit evidence, change approval, quality assurance, and delivery.
+This service is separate from the [AI UI Rescue Kit](../../publishing/ui-rescue-prompt-pack/readme.md). The kit is a self-serve prompt product. This directory is an operator-facing service system for client intake, consent, audit evidence, change approval, quality assurance, and delivery.
 
 ## Pilot offers
 
@@ -49,7 +49,7 @@ Use the four concise operational templates for routine client delivery. The deta
 
 ## Fictional example evidence
 
-The repository contains an actual local test using the **fictional** Cedar & Stone Home Services page. Its [result](../ui-rescue-pack/examples/site-b-cedar-stone/evidence/RESULT.md), [capture manifest](../ui-rescue-pack/examples/site-b-cedar-stone/evidence/CAPTURE-MANIFEST.md), and matching before/after screenshots may be used as internal process evidence only.
+The prompt-pack repository contains an actual local test using the **fictional** Cedar & Stone Home Services page. Its [result](../../publishing/ui-rescue-prompt-pack/examples/site-b-cedar-stone/evidence/RESULT.md), [capture manifest](../../publishing/ui-rescue-prompt-pack/examples/site-b-cedar-stone/evidence/CAPTURE-MANIFEST.md), and matching before/after screenshots may be used as internal process evidence only.
 
 It is not a client engagement, testimonial, market-validation result, accessibility certification, or proof that the pilot prices will sell. Do not present it as any of those things.
 

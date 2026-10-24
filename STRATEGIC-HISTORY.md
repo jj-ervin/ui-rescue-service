@@ -2,7 +2,7 @@
 
 This record preserves decisions that define the current pilot. Earlier alternatives remain historical proposals, not current requirements.
 
-1. The [AI UI Rescue Kit](../ui-rescue-pack/readme.md) prompt book and this service are separate commercial experiments.
+1. The [AI UI Rescue Kit](../../publishing/ui-rescue-prompt-pack/readme.md) prompt book and this service are separate commercial experiments.
 2. The service applies established usability knowledge; it does not invent a new methodology.
 3. Research references support bounded findings but do not create automatic compliance, legal advice, or certification.
 4. Observable evidence and actual usability problems take precedence over AI design opinions.
