@@ -65,7 +65,7 @@ Duplicate this section for each reported finding.
 2. [Next action]
 3. [Deferred or optional action]
 
-For the $249 offer, implementation remains limited to the final list of no more than five items authorized in [CHANGE-APPROVAL.md](CHANGE-APPROVAL.md).
+For the $259 Website UI Rescue offer, implementation remains limited to the final list of no more than three items authorized in [APPROVAL.md](APPROVAL.md).
 
 ## Limitations and unverified items
 

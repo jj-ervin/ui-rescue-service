@@ -1,6 +1,6 @@
 # Change approval — AI UI Rescue Service
 
-Complete for the $249 audit + fixes offer before editing source or UI assets. Audit delivery alone does not require or imply change approval.
+Complete for the $259 Website UI Rescue offer before editing source or UI assets. Review delivery alone does not require or imply change approval.
 
 ## Approval context
 
@@ -11,7 +11,7 @@ Complete for the $249 audit + fixes offer before editing source or UI assets. Au
 - Improvement plan version/link:
 - Isolated implementation environment:
 - Baseline revision/checkpoint:
-- Maximum approved fixes: five
+- Maximum approved fixes: three
 
 ## Item-level decision
 
@@ -20,8 +20,6 @@ Complete for the $249 audit + fixes offer before editing source or UI assets. Au
 | P-01 |  |  |  |  |
 | P-02 |  |  |  |  |
 | P-03 |  |  |  |  |
-| P-04 |  |  |  |  |
-| P-05 |  |  |  |  |
 
 Only rows explicitly marked **approve** are authorized. Blank, ambiguous, deferred, or conditional rows are not authorized.
 
@@ -36,7 +34,7 @@ Only rows explicitly marked **approve** are authorized. Blank, ambiguous, deferr
 
 The client confirms:
 
-- [ ] The approved list contains no more than five bounded visual fixes.
+- [ ] The approved list contains no more than three bounded visual fixes.
 - [ ] The operator may implement those items only in the isolated environment named above.
 - [ ] Unrelated content, behavior, routes, dependencies, and files remain unchanged.
 - [ ] New discoveries require a written plan update and new approval.

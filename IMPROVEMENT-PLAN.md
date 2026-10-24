@@ -23,7 +23,7 @@ This plan turns evidence-backed findings into bounded proposals. It does not aut
 
 ## Proposed changes
 
-For the audit + fixes offer, list no more than five candidate fixes.
+For the Website UI Rescue offer, list no more than three candidate fixes.
 
 ### P-01 — [Bounded change name]
 
@@ -42,7 +42,7 @@ For the audit + fixes offer, list no more than five candidate fixes.
 - Risk / dependency:
 - Estimated effort class: [Small / Medium / Not yet known]
 
-Duplicate for P-02 through P-05 only as needed.
+Duplicate for P-02 and P-03 only as needed.
 
 ## Proposed change matrix
 
@@ -64,7 +64,7 @@ Record useful but unselected work so it does not enter implementation implicitly
 - [ ] Every proposal is discrete and reversible.
 - [ ] No proposal silently adds a page, feature, dependency, framework, or service.
 - [ ] Acceptance and regression checks are defined before implementation.
-- [ ] The candidate list contains no more than five fixes.
+- [ ] The candidate list contains no more than three fixes.
 - [ ] Deployment is not implied.
 
 Next gate: copy the final proposal list into [CHANGE-APPROVAL.md](CHANGE-APPROVAL.md) and obtain explicit item-level authorization.

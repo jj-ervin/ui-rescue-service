@@ -10,18 +10,20 @@ One service unit is one agreed webpage or one reproducible UI state at one agree
 
 The client and operator record the exact unit in [CLIENT-INTAKE.md](CLIENT-INTAKE.md). Ambiguity pauses work; it does not enlarge the unit.
 
-## Offer A — One-page UI audit
+## Offer A — Website UI Review
 
 **Pilot price: $79**
 
 Included:
 
-- review of the agreed page/state using supplied access and materials;
-- baseline observations at up to three agreed viewport sizes;
-- evidence-linked review of hierarchy, content clarity, typography, spacing/layout, color/contrast indicators, component consistency, responsive behavior, accessibility indicators, and trust/generic-design signals;
-- 0–3/N/O scores using the rubric in [UI-AUDIT.md](UI-AUDIT.md);
-- prioritized findings and a bounded improvement plan; and
-- documented limitations and unverified items.
+- one specified public webpage;
+- desktop and mobile inspection under recorded conditions;
+- up to five prioritized, observable findings with relevant screenshot references;
+- plain-English explanations and practical recommendations;
+- a concise client report; and
+- one brief written follow-up.
+
+Internal labor budget target: approximately 60 minutes total, including follow-up. This is an operating target, not a guaranteed delivery time.
 
 Not included:
 
@@ -30,17 +32,28 @@ Not included:
 - user research, copywriting, branding, identity design, or new illustration; or
 - additional pages or UI states.
 
-## Offer B — One-page UI audit + fixes
+## Offer B — Website UI Rescue
 
-**Pilot price: $249**
+**Pilot price: $259**
 
-Includes everything in Offer A plus implementation of **up to five** client-approved, bounded visual fixes on the agreed page/state.
+Included:
+
+- a focused one-page review;
+- implementation of **up to three** explicitly approved, small visual fixes;
+- an isolated, reversible implementation where feasible;
+- matching before/after screenshots;
+- checks of affected responsive layout and functionality;
+- a concise delivery and QA report; and
+- one bounded correction or clarification round.
+
+Internal labor budget target: approximately three to four hours total. This is an operating target, not a guaranteed delivery time.
 
 A bounded visual fix is one discrete change with a named target, proposed treatment, files/components expected to change, acceptance check, and rollback method. Examples include adjusting a page heading scale, correcting a spacing pattern, clarifying one primary action, improving a repeated component treatment, or repairing one responsive layout issue.
 
 The following do not count as a single bounded fix and require a new scope decision:
 
 - a full redesign, new page, new feature, or new design system;
+- rebuilding the page or site, ongoing maintenance, or unauthorized production deployment;
 - broad copy replacement or content strategy;
 - framework migration, dependency/platform change, or infrastructure work;
 - backend, database, authentication, payment, form-processing, analytics, or third-party integration work;
@@ -81,9 +94,9 @@ Delivery timing starts only after the required access, baseline, constraints, an
 
 For v0.1:
 
-- prices remain $79 and $249 and are labeled **UNVALIDATED**;
+- prices remain $79 and $259 and are labeled **UNVALIDATED**;
 - the unit remains one page/state;
-- Offer B remains limited to five approved bounded visual fixes;
+- Offer B remains limited to three approved bounded visual fixes;
 - evidence, consent, isolation, matching captures, testing, limitations, and rollback remain required;
 - deployment remains excluded unless separately authorized; and
 - no recurring service, platform, automation, or additional product is implied.

@@ -10,8 +10,8 @@ This service is separate from the [AI UI Rescue Kit](../ui-rescue-pack/readme.md
 
 | Offer | Pilot price | Included |
 |---|---:|---|
-| One-page UI audit | **$79** | Evidence-backed audit, scored findings, and prioritized improvement plan for one agreed page/state |
-| One-page UI audit + fixes | **$249** | The audit plus implementation of up to five approved, bounded visual fixes on the agreed page/state |
+| Website UI Review | **$79** | Desktop and mobile inspection of one agreed public webpage, with up to five prioritized findings and one brief written follow-up |
+| Website UI Rescue | **$259** | A focused one-page review plus up to three explicitly approved, bounded visual fixes and one correction or clarification round |
 
 These are **UNVALIDATED pilot prices**. They are working hypotheses for a limited pilot, not evidence of demand, conversion, profitability, or a permanent rate card. See [SERVICE-SCOPE.md](SERVICE-SCOPE.md) for the complete boundaries.
 
@@ -29,8 +29,15 @@ These are **UNVALIDATED pilot prices**. They are working hypotheses for a limite
 ## Documents
 
 - [SERVICE-SCOPE.md](SERVICE-SCOPE.md) — packages, inclusions, exclusions, and v0.1 scope freeze
+- [PILOT-PLAN.md](PILOT-PLAN.md) — qualification, outreach, effort and conversion tracking, and stop/go criteria
+- [RESEARCH-FOUNDATION.md](RESEARCH-FOUNDATION.md) — standards, professional guidance, evidence limits, and citation rules
+- [STRATEGIC-HISTORY.md](STRATEGIC-HISTORY.md) — decisions that constrain the current pilot
+- [INTAKE.md](INTAKE.md) — concise operational intake and qualification template
+- [REVIEW-REPORT.md](REVIEW-REPORT.md) — concise client report for up to five findings
+- [APPROVAL.md](APPROVAL.md) — concise authorization record for Offer B
+- [DELIVERY-QA.md](DELIVERY-QA.md) — concise delivery, evidence, QA, failure, and handoff record
 - [DELIVERY-WORKFLOW.md](DELIVERY-WORKFLOW.md) — evidence and approval gates from intake through handoff
-- [CLIENT-INTAKE.md](CLIENT-INTAKE.md) — client goals, page definition, access, consent, and constraints
+- [CLIENT-INTAKE.md](CLIENT-INTAKE.md) — optional detailed internal intake worksheet
 - [UI-AUDIT.md](UI-AUDIT.md) — observation record and 0–3/N/O scoring rubric
 - [FINDINGS-REPORT.md](FINDINGS-REPORT.md) — client-facing, evidence-linked findings
 - [IMPROVEMENT-PLAN.md](IMPROVEMENT-PLAN.md) — proposed bounded changes and acceptance checks
@@ -38,7 +45,7 @@ These are **UNVALIDATED pilot prices**. They are working hypotheses for a limite
 - [QA-CHECKLIST.md](QA-CHECKLIST.md) — matching capture and regression checklist
 - [DELIVERY-REPORT.md](DELIVERY-REPORT.md) — final changes, evidence, limitations, and rollback
 
-Copy each template into a client-specific working folder. Replace bracketed fields, retain decisions and evidence links, and mark unavailable checks honestly rather than deleting them.
+Use the four concise operational templates for routine client delivery. The detailed worksheets remain available when the engagement needs more internal control. Copy templates into a client-specific working folder, retain decisions and evidence links, and mark unavailable checks honestly rather than deleting them. The client receives the concise report and relevant approval/delivery records, not the whole internal documentation system.
 
 ## Fictional example evidence
 

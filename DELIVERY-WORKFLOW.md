@@ -4,7 +4,7 @@ Use this workflow with [SERVICE-SCOPE.md](SERVICE-SCOPE.md). Each gate produces 
 
 ## 1. Qualify and freeze intake
 
-Complete [CLIENT-INTAKE.md](CLIENT-INTAKE.md).
+Complete [INTAKE.md](INTAKE.md). Use [CLIENT-INTAKE.md](CLIENT-INTAKE.md) as an optional detailed internal worksheet when access, state, or technical constraints require it.
 
 Confirm:
 
@@ -41,7 +41,7 @@ For every scored area:
 
 ## 4. Report findings and propose changes
 
-Prepare [FINDINGS-REPORT.md](FINDINGS-REPORT.md) and [IMPROVEMENT-PLAN.md](IMPROVEMENT-PLAN.md). Rank findings by observed severity, confidence, effort, and dependency. For Offer B, identify no more than five candidate fixes, each with a precise boundary and acceptance check.
+Prepare the concise client-facing [REVIEW-REPORT.md](REVIEW-REPORT.md). Use [FINDINGS-REPORT.md](FINDINGS-REPORT.md) and [IMPROVEMENT-PLAN.md](IMPROVEMENT-PLAN.md) as detailed internal worksheets when useful. Rank findings by observed severity, confidence, effort, and dependency. For Offer B, identify no more than three candidate fixes, each with a precise boundary and acceptance check.
 
 Do not start implementation while the proposed list is still changing.
 
@@ -49,7 +49,7 @@ Do not start implementation while the proposed list is still changing.
 
 ## 5. Obtain change approval
 
-For Offer B, complete [CHANGE-APPROVAL.md](CHANGE-APPROVAL.md). The client accepts, rejects, or defers each proposed fix and confirms the final list. Record the approved environment and files/components when known.
+For Offer B, complete [APPROVAL.md](APPROVAL.md). Use [CHANGE-APPROVAL.md](CHANGE-APPROVAL.md) only when a more detailed internal authorization record is needed. The client accepts, rejects, or defers each proposed fix and confirms the final list. Record the approved environment and files/components when known.
 
 Audit-only engagements end after the report and clarification round; no change approval is implied.
 
@@ -70,7 +70,7 @@ If implementation reveals a necessary unapproved change:
 
 ## 7. Run QA and matching comparison
 
-Complete [QA-CHECKLIST.md](QA-CHECKLIST.md). Capture after-screenshots using the same agreed page state, viewport dimensions, browser/device conditions, zoom, content, and crop/full-page method as the baseline whenever technically possible.
+Complete [DELIVERY-QA.md](DELIVERY-QA.md). Use [QA-CHECKLIST.md](QA-CHECKLIST.md) and [DELIVERY-REPORT.md](DELIVERY-REPORT.md) as detailed internal worksheets when needed. Capture after-screenshots using the same agreed page state, viewport dimensions, browser/device conditions, zoom, content, and crop/full-page method as the baseline whenever technically possible.
 
 Verify affected behavior and relevant regressions. Never convert “not tested” into “passed.” A visual check does not establish accessibility conformance, performance improvement, or business impact.
 
@@ -78,7 +78,7 @@ Verify affected behavior and relevant regressions. Never convert “not tested�
 
 ## 8. Deliver without silently deploying
 
-Complete [DELIVERY-REPORT.md](DELIVERY-REPORT.md) with:
+Finalize [DELIVERY-QA.md](DELIVERY-QA.md) with:
 
 - final approved and implemented list;
 - branch, revision, files/components, or artifact location;

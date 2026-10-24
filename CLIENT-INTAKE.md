@@ -9,7 +9,7 @@ Complete before audit work begins. Do not include passwords, secret keys, unnece
 - Operator:
 - Intake date:
 - Requested delivery date:
-- Selected offer: [ ] $79 one-page audit  [ ] $249 one-page audit + up to five approved bounded fixes
+- Selected offer: [ ] $79 Website UI Review  [ ] $259 Website UI Rescue with up to three approved bounded fixes
 - Pilot-price status acknowledged as UNVALIDATED: [ ] Yes  [ ] No
 - Scope version: `v0.1`
 
